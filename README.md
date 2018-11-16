@@ -1,0 +1,3 @@
+# Employee_attrition_causes-solutions
+Employee turnover (i.e. Employees leaving the organisation) is a major problem that many companies faces, be it a multinational company or a startup.
+This report will help to find out various factors responsible for it, their effects and possible solutions/recommendations to this problem by exploring and analyzing a data-set and using famous classifier models (which includes Decision tree, Random Forest and Gaussian Naive Bayes) to effectively predict whether an employee will leave the company or not with respect to the set of features present in the selected data-set.
